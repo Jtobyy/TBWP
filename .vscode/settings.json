@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "blurbjenv\\Scripts\\python.exe",
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "/path/to/pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.venvPath": "${workspaceFolder}/backend/blurbenv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "git.ignoreLimitWarning": true
+}
